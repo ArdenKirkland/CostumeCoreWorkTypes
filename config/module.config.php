@@ -2,7 +2,7 @@
 return [
     'data_types' => [
         'invokables' => [
-            'rights_statement' => 'RightsStatements\DataType\RightsStatement'
+            'work_type' => 'CostumeCoreWorkTypes\DataType\WorkType'
         ],
     ],
 ];
