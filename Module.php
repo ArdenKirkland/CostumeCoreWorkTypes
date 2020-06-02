@@ -1,5 +1,5 @@
 <?php
-namespace RightsStatements;
+namespace CostumeCoreWorkTypes;
 
 use Omeka\Module\AbstractModule;
 
